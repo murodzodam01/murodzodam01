@@ -24,7 +24,7 @@ I also built an internal experimentation tool covering **MDE and power analysis,
 ### [Coca Supply Shocks and Violence in Colombia](https://github.com/murodzodam01/Coca-Supply-Shocks-and-Violence-in-Colombia)
 Difference-in-differences analysis with pre-trend diagnostics, placebo testing, covariate adjustment, and discussion of causal identification assumptions.
 
-### [Causal Inference Beyond AB]([https://github.com/murodzodam01/causal](https://github.com/murodzodam01/causal_inference_beyond_AB)
+### [Causal Inference Beyond AB](https://github.com/murodzodam01/causal](https://github.com/murodzodam01/causal_inference_beyond_AB)
 Applied propensity-score matching and synthetic control to two observational case studies involving UN interventions and German reunification. The project focuses on counterfactual construction, overlap and balance diagnostics, donor weighting, placebo tests, and the limitations that determine whether a causal conclusion is credible.
 
 ### [ATM Cash Demand Forecasting](https://github.com/murodzodam01/ATM-Cash-Demand-Forecasting)
