@@ -10,7 +10,6 @@ I have 2+ years of professional experience in product analytics, experimentation
 - A/B Testing and Experiment Design
 - Causal Inference
 - Statistical Modeling
-- Recommendation Systems
 - Forecasting
 - Applied Machine Learning
 
