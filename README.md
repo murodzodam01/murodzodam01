@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Muhammad Murodzoda
 
-M.Sc. Data Science student at the University of Mannheim, currently completing an exchange semester at San Diego State University.
+M.Sc. Social Data Science student at the University of Mannheim, currently completing an exchange semester at San Diego State University.
 
 I have 2+ years of professional experience in product analytics, experimentation, statistical modeling, and machine learning. My main interests are **Product Data Science, experimentation, causal inference, product analytics, and applied machine learning**.
 
