@@ -2,7 +2,7 @@
 
 M.Sc. Social Data Science student at the University of Mannheim, currently completing an exchange semester at San Diego State University.
 
-I have 2+ years of professional experience in product analytics, experimentation, and machine learning: at Uchi.ru, an EdTech product with about 20 million users, and at Business Solutions and Technologies (ex-Deloitte). At Uchi.ru my analysis helped raise conversion from 1.5% to 5%, and I built an experimentation tool that cut A/B test analysis from about a day to 10 minutes. I use machine learning and deep learning regularly: gradient boosting and propensity models at work, and PyTorch sequence, convolutional and generative models in my projects.
+I have 2+ years of professional experience in product analytics, experimentation, and machine learning: at Uchi.ru, an EdTech product with about 20 million users, and at Business Solutions and Technologies (ex-Deloitte). At Uchi.ru my analysis helped raise conversion from 1.5% to 5%, and I built an experimentation tool that cut A/B test analysis from about a day to 10 minutes. I regularly use machine learning and deep learning: gradient boosting and propensity models at work, and PyTorch sequence, convolutional and generative models in my projects.
 
 ### What I work on
 
@@ -38,7 +38,7 @@ I have 2+ years of professional experience in product analytics, experimentation
 
 ### Tech
 
-**Languages:** Python, SQL, R, Stata
+**Languages:** Python, SQL, R, Stata, Matlab
 
 **Machine learning:** scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, imbalanced-learn
 
